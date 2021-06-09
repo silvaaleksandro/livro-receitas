@@ -1,10 +1,9 @@
-# livro de receitas :man_cook:
+livro de receitas 👨‍🍳
 
-Olá bem vindo ao meu livro de receitas:wave:
+Olá bem vindo ao meu livro de receitas👋
 
 - Bolo de chocolate.
 
 - Pave 9
 
-  ​
-
+- Pave 2
